@@ -232,14 +232,14 @@ p {
 
   p {
    font-size: 14px;
-   line-height: 14px;
+   line-height: 20px;
    letter-spacing: 1px;
    }
 
   .container li {
     padding: 2px;
     font-size: 14px;
-    line-height: 14px;
+    line-height: 20px;
     letter-spacing: 1px;
   }
 
